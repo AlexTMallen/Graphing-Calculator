@@ -5,10 +5,9 @@ import random
 import pygame
 import statistics
 import math
-"""import scipy"""
 from pygame import Rect, draw
 from math import cos, sin, tan, log, log10, acos, asin, atan, e, pi
-"""from scipy import stats"""
+
 
 pygame.init()
 pygame.font.init()
